@@ -1,0 +1,19 @@
+{
+  "project": "my-awesome-app",
+  "timestamp": "2026-01-28T02:23:50Z",
+  "git": {
+    "commits": 9,
+    "branches": 2,
+    "contributors": 1,
+    "last_commit": "0266d12"
+  },
+  "files": {
+    "total": 10,
+    "size": "276K"
+  },
+  "health": {
+    "readme": true,
+    "license": false,
+    "ci": true
+  }
+}
